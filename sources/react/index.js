@@ -1,0 +1,1 @@
+export { PropTypes } from './PropTypes';
